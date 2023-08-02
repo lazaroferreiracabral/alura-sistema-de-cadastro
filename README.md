@@ -4,4 +4,4 @@
 
 Para rodar esse projeto necessário:
 
-nmp install react
+node app.js
