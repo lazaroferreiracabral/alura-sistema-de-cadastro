@@ -2,6 +2,6 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto necessário:
+Para rodar esse projeto necessário itens abaixo:
 
 node app.js
